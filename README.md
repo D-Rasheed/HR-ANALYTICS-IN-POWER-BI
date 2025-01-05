@@ -61,6 +61,4 @@ git clone https://github.com/D-Rasheed/HR-ANALYTICS-IN-POWER-BI
 - Examined factors influencing employee turnover.
 - Suggested actionable strategies to improve retention.
 
-### Report Snapshots
 
-Include snapshots of your Power BI report pages here to showcase key visuals and layouts.
